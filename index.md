@@ -48,7 +48,6 @@
 - Web 3.0
 - Blockchains
 - Aprendizagem de Máquina (Machine Learning) e Inteligência Artificial (AI)
----
 
 ### Controle de Versão
 #### Git, VSCode e GitLens
@@ -82,3 +81,4 @@
 - GitHub
 #### Pull Resquest
 Aguardando...
+
