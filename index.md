@@ -79,6 +79,10 @@
 - Serviços de hospedagem
 - GitHub
 #### Pull Resquest
-Aguardando...
+- Comunicação
+- Organização
+- Automação
+
+
 
 
