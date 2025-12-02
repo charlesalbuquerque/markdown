@@ -47,8 +47,7 @@
 - Redes Definidas por Software (SDN)
 - Web 3.0
 - Blockchains
-- Aprendizagem de Máquina (Machine Learning) e Inteligência Artificial (AI)
-
+- Machine Learning e Inteligência Artificial
 ### Controle de Versão
 #### Git, VSCode e GitLens
 - O que é um sistema de controle de versão ?
@@ -81,4 +80,5 @@
 - GitHub
 #### Pull Resquest
 Aguardando...
+
 
